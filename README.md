@@ -70,14 +70,22 @@ The SQL outputs were then imported into Excel for:
 This step ensured both accuracy and analytical depth, combining SQL’s precision with Excel’s flexibility.
 
 4. Visualization & Storytelling (Power BI)
+   
 In the final stage, the cleaned and analyzed data was loaded into Power BI to build an interactive dashboard.
 The dashboard included:
+
 •	KPI cards (Total Revenue, Total Orders, Average Order Value)
+
 •	Revenue trends over time (line charts)
+
 •	Product line performance (bar charts)
+
 •	Revenue by country and region
+
 •	Deal size contribution to total revenue
+
 •	Interactive slicers for time period, product line, country, and deal size
+
 The dashboard was designed to be executive-friendly, enabling users to explore insights quickly without technical knowledge.
 
 ## Key Insights and Recommendation ##
@@ -103,9 +111,13 @@ The dashboard was designed to be executive-friendly, enabling users to explore i
 
 
  ## Tools & Technologies Used ##
+ 
 •	Python (Pandas) – Data cleaning, transformation, feature creation
+
 •	SQL – Aggregation and structured analysis
+
 •	Excel – Pivot tables, validation, exploratory analysis
+
 •	Power BI – Interactive dashboard and data storytelling
 
 ## Conclusion ##
