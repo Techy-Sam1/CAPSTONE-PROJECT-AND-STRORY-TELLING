@@ -55,16 +55,16 @@ The dashboard included:
 The dashboard was designed to be executive-friendly, enabling users to explore insights quickly without technical knowledge.
 
 ## Key Insights Discovered ##
-	YEARLY SALES : THERE IS A GOOD START IN 2003 FOLLOWING  A GREAT PEAK/ PERFORMANCE  IN 2004 WITH HUGE DIP IN 2005. MORE MARKETING/ DISCOUNT MIGHT HELP BOOST SALES AGAIN.
 
-	PRODUCT SALES :  CLASSIC CALES MADE THE MOST SALES, CREATING AHUGE GAP BETWEEN OTHE PRODUCT SALES, MIGHT BE DUE TO AESTHETIC, MORE MARKETING ON CLASSIC CARS AND MAYBE A NEW LOCATION OR DEALS WITH OTHER CARS.
+- YEARLY SALES: Theres a good stsrt in 2003 following a great peak/ performance in 20o4 alonside huge dip in 2005. more marketing/discount might help boost sales again
 
-	DEAL SIZE: MEDIUM DEAL SIZE TOOK A WHOPPING 5O% OF THE TOTAL REVENUE 
+- PRODUCT SALES: Classic cars made the most sales, cfreating A huge gap between other product sales, might be due to aesthetic- more marketing on classic cars and mayne a new location or deals with other cars
 
-	SHIPPING_STATUS: MOST PRODUCT ARE SHIPPED, INDICATING EFEFCTIVE PROCESSES.
+- DEAL SIZE: Medium deal took a whooping 50% of the total revenue
 
+- SHIPPING_STATUS: Most product are shipped, indicating effective processes
 
-	COUNTRY SALES: MOST SALES WERE MADE FROM  USA INDICATRING HUGE PRODUCT DEMAND MORE MARKETIING AND DEALS COULD HELP BOOST SALES MORE.. 
+- COUNTRY SALES: Most sales were made from USA indicating huge product demand - more marketing and deals/discounts coukld help boost sales more.
 
 ## Business Value ##
 •	Provided leadership with a single source of truth for sales performance
@@ -80,6 +80,6 @@ The dashboard was designed to be executive-friendly, enabling users to explore i
 •	Power BI – Interactive dashboard and data storytelling
 
 ## Conclusion ##
-AS AN ASPIRING ANALYST. This project demonstrates a complete, real-world data analytics workflow. By transforming raw, messy data into actionable insights and an interactive dashboard, the project showcases strong technical skills, analytical thinking, and the ability to communicate data-driven insights effectively to business stakeholders. Equipping me to lock in what I have learnt so far.
+AS AN ANALYST. This project demonstrates a complete, real-world data analytics workflow. By transforming raw, messy data into actionable insights and an interactive dashboard, the project showcases strong technical skills, analytical thinking, and the ability to communicate data-driven insights effectively to business stakeholders. Equipping me to lock in what I have learnt so far.
 
-SAM ANALYTICS INCOMING............
+
